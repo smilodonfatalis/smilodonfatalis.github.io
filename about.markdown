@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Kathryn McDonald** is pursuing a Master's in Library and Information Science through the [University of Illinois Urbana-Champaign](https://ischool.illinois.edu).  She is interested in intersectional feminism and queer theory in the Digital Humanities, especially the discussion happening around [#transformDH](http://www.transformdh.org/).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+#### Contact
+Twitter: [@unsf_lorekeeper](https://twitter.com/unsf_lorekeeper)
+Email: krm3 at illinois dot edu

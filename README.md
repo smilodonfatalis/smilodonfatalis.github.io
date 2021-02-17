@@ -1,2 +1,0 @@
-# smilodonfatalis.github.io
-Portfolio
